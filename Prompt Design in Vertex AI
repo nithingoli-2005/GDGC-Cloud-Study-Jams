@@ -1,0 +1,57 @@
+### **Lab / Course Name:** Prompt Design in Vertex AI
+
+**Course Link:** [https://www.cloudskillsboost.google/course_templates/976?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24](https://www.cloudskillsboost.google/course_templates/976?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24)
+
+## ☁️ Google Cloud Skills Boost — *Prompt Design in Vertex AI*
+
+### 🧭 Overview
+
+This course introduces the concepts and practices of **prompt engineering** within Google Cloud’s **Vertex AI** environment, including working with **Gemini models** and multimodal AI. ([Google Cloud Skills Boost][1])
+
+Learners explore how to craft effective prompts, guide generative AI output, and apply image analysis techniques to inform prompt design. ([Google Cloud Skills Boost][1])
+
+The course includes hands-on labs and a **challenge lab** to assess your prompt design skills under real conditions. ([Google Cloud Skills Boost][2])
+
+**Duration:** ~1 hour 45 minutes ([Google Cloud Skills Boost][1])
+**Level:** Introductory ([Google Cloud Skills Boost][1])
+
+---
+
+### 🎯 Learning Objectives
+
+By completing this course, participants will be able to:
+
+1. Gain foundational understanding of **generative AI** and prompt engineering. ([Google Cloud Skills Boost][1])
+2. Design effective prompts for **Gemini models** (text, image, multimodal). ([Google Cloud Skills Boost][1])
+3. Use **Vertex AI Studio** to prototype generative AI workflows. ([Google Cloud Skills Boost][3])
+4. Work with **image analysis and multimodal inputs** to enrich prompt outcomes. ([Google Cloud Skills Boost][1])
+5. Apply prompt design techniques in a **challenge lab** setting to test your knowledge. ([Google Cloud Skills Boost][2])
+
+---
+
+### 🧪 Labs & Challenge Lab
+
+| **Lab / Module**                              | **Description / Tasks**                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Get Started with Vertex AI Studio**         | Use the Studio interface to build prompts and interact with Gemini models. ([Google Cloud Skills Boost][3])                                                                                                                                                                                                                                                          |
+| **Prompt Design / Generative AI Lab**         | Explore prompt engineering best practices, zero-shot / few-shot prompting, and prompt tuning. ([Google Cloud Skills Boost][4])                                                                                                                                                                                                                                       |
+| **Challenge Lab: Prompt Design in Vertex AI** | In this lab (≈1h 30m), you are given a scenario (e.g. marketing use case) and must design prompts that: <br> • Analyze images for descriptive text <br> • Generate creative taglines <br> • Iterate prompts for better output <br> The challenge lab does **not** guide you step by step; your performance is scored automatically. ([Google Cloud Skills Boost][2]) |
+
+---
+
+### 🧰 Technologies & Tools Used
+
+* **Google Cloud Platform (GCP)**
+* **Vertex AI (Generative AI, Gemini models)**
+* **Vertex AI Studio (prompt management, multimodal interface)**
+* **Python / Jupyter Notebooks** (exporting and modifying prompt code) ([Google Cloud Skills Boost][2])
+* **Imaging / Multimodal analysis tools** (for handling image inputs) ([Google Cloud Skills Boost][2])
+
+---
+
+### 📈 Outcomes & Benefits
+
+* Ability to design **effective, targeted prompts** for generative AI models.
+* Experience working with **multimodal AI (text + image)** in real use cases.
+* Hands-on familiarity with **Vertex AI Studio** and AI deployment flows.
+* Validation of your skills via the **challenge lab** and earning of a **skill badge**.
