@@ -1,0 +1,67 @@
+Lab Link: https://www.cloudskillsboost.google/course_templates/747?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24
+☁️ Google Cloud Skills Boost — Monitoring in Google Cloud
+🧭 Overview
+
+This is an introductory course (≈ 1 hour) provided via Google Cloud Skills Boost. It guides learners in using Google Cloud’s monitoring tools to observe and manage cloud resources. 
+Google Cloud Skills Boost
+
+You’ll learn how to configure uptime checks, alerting policies, dashboards, and log-based metrics — all to maintain visibility over applications like an Apache Web Server hosted on a VM. 
+Google Cloud Skills Boost
+
+Completing required labs and challenges in this course earns you a skill badge for monitoring in Google Cloud. 
+Google Cloud Skills Boost
+
+🎯 Learning Objectives
+
+By the end of this course, participants will be able to:
+
+Use Cloud Monitoring / Cloud Logging agents on VM instances.
+
+Configure uptime checks to monitor service availability.
+
+Create and manage alert policies for resource health and performance.
+
+Build dashboards and charts to visualize metrics.
+
+Define log-based metrics to derive insights from logs.
+
+Develop a holistic monitoring setup for cloud infrastructure and services.
+
+🧪 Hands-on Labs & Challenge Lab
+Lab / Module	Description / Tasks
+Monitoring Basics (Lab modules)	Introduction and guided walkthroughs for using Monitoring tools, setting up basic checks, alerts, dashboards.
+Challenge Lab (ARC115)	In this 45-minute hands-on challenge, you:
+• Install Cloud Logging and Monitoring agents on a VM
+• Add uptime checks for Apache Web Server
+• Create alert policies
+• Build dashboard and charts
+• Configure a log-based metric
+
+Google Cloud Skills Boost
+
+The challenge lab tests your ability to apply what you learned — without step-by-step instructions. 
+Google Cloud Skills Boost
+
+🧰 Technologies & Tools Used
+
+Google Cloud Platform (GCP)
+
+Cloud Monitoring (Stackdriver)
+
+Cloud Logging
+
+Google Cloud Console & Cloud Shell
+
+Virtual Machines (VMs) with Apache Web Server
+
+CLI / gcloud for agent installation & resource management
+
+📈 Outcomes & Benefits
+
+Learners will be able to monitor cloud resources end-to-end using Google’s observability stack.
+
+They will gain experience in setting alerts and dashboards to catch issues before they escalate.
+
+The course fosters proactive resource management and operational awareness.
+
+Upon completion, learners earn the Monitoring in Google Cloud skill badge to validate their hands-on monitoring proficiency.
