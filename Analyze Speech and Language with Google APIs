@@ -1,0 +1,70 @@
+Lab Link: https://www.cloudskillsboost.google/course_templates/634
+
+☁️ Google Cloud Skills Boost — Analyze Speech & Language with Google APIs
+🧭 Overview
+
+This course guides learners through using Google’s Natural Language API and Speech API to analyze text and speech. Participants get hands-on experience with entity extraction, sentiment analysis, syntax parsing, and speech recognition. 
+Google Cloud Skills Boost
++1
+
+The work is done through challenge labs where you apply your skills without step-by-step instructions — reinforcing learning by doing. 
+Google Cloud Skills Boost
+
+Course / Lab Duration: ~1 hour (includes challenge lab) 
+Google Cloud Skills Boost
+
+Level: Introductory / Intermediate
+Credit / Badge: Earned upon successful completion of the challenge lab 
+Google Cloud Skills Boost
+
+🎯 Learning Objectives
+
+By the end of this course, you will be able to:
+
+Create and configure an API key to access Google Cloud APIs. 
+Google Cloud Skills Boost
++1
+
+Use the Natural Language API to perform entity extraction, sentiment analysis, and syntax analysis on given text inputs. 
+Google Cloud Skills Boost
++1
+
+Invoke the Speech API to transcribe audio into text. 
+Google Cloud Skills Boost
+
+Integrate analyses — e.g. combine speech transcription with sentiment or entity analysis. 
+Google Cloud Skills Boost
+
+🧪 Hands-on Activities / Challenge Lab
+Module / Task	Description / Goal
+Challenge Lab (ARC114)	Apply your skills in a semi-structured scenario. You’ll:
+• Create API key
+• Call Natural Language API for entity analysis
+• Call Speech API for transcription
+• Perform sentiment analysis
+
+Text Analysis Tasks	Use the Natural Language API to identify entities, classify sentiment, parse parts of speech, etc.
+Speech Analysis Task	Process a provided audio file (e.g. from Cloud Storage) through the Speech API to get a transcript.
+🧰 Technologies & Tools Used
+
+Google Cloud Platform (GCP)
+
+Cloud Natural Language API
+
+Cloud Speech API
+
+Google Cloud Console & Cloud Shell
+
+curl, JSON request/response files
+
+Python (for sentiment analysis scripting)
+
+📈 Outcomes & Benefits
+
+You’ll gain practical skills in text and speech analytics using Google Cloud APIs.
+
+You’ll understand how to chain APIs (speech → text → language analysis).
+
+You’ll strengthen debugging and independent learning since the challenge lab requires self-driven problem solving.
+
+You’ll earn a skill badge / credit showcasing your competency in speech & language processing on the cloud.
