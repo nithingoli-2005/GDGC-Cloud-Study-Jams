@@ -1,13 +1,13 @@
 Cloud Study Jam – Essentials
 
-Google Cloud Console Access (Institutional accounts)
+1)Google Cloud Console Access (Institutional accounts)
 
-Cloud SDK (gcloud CLI) & Qwiklabs / Skills Boost Platform
+2)Cloud SDK (gcloud CLI) & Qwiklabs / Skills Boost Platform
 
-Linux/Ubuntu Environment for deployment
+3)Linux/Ubuntu Environment for deployment
 
-Docker & Kubernetes Setup for cloud-native apps
+4)Docker & Kubernetes Setup for cloud-native apps
 
-VS Code with cloud extensions
+5)VS Code with cloud extensions
 
-GitHub/GitLab Integration for version control
+6)GitHub/GitLab Integration for version control
