@@ -1,0 +1,61 @@
+Details:
+Need High Development pc
+lab link :https://www.cloudskillsboost.google/course_templates/700?utm_campaign=arcade-facilitator24&utm_medium=website&utm_source=gcaf-site
+Description:
+☁️ Google Cloud Skills Boost — Cloud Speech API: 3 Ways
+🧭 Overview
+
+This repository documents our learning journey and implementation tasks completed as part of the Google Cloud Skills Boost course — “Cloud Speech API: 3 Ways”.
+The course introduces Google Cloud Speech-to-Text, Text-to-Speech, and Translation APIs, demonstrating how to process and transform audio and text data using AI-powered cloud services.
+
+Through hands-on labs, we explored how to:
+
+Convert speech into text for transcription and analysis.
+
+Convert text into natural-sounding audio using Text-to-Speech.
+
+Integrate Translation API to support multilingual use cases.
+
+🕒 Course Duration: ~1 hour
+🎓 Level: Introductory
+🏅 Skill Badge Earned: Cloud Speech API: 3 Ways
+
+🎯 Learning Objectives
+
+By the end of this course, we were able to:
+
+Understand the fundamentals of Google Cloud Speech APIs.
+
+Use Speech-to-Text API to transcribe audio recordings accurately.
+
+Apply Text-to-Speech API to synthesize natural-sounding speech.
+
+Integrate Translation API to make applications multilingual.
+
+Deploy and test these APIs using Google Cloud Console and Cloud Shell.
+
+Earn a digital skill badge demonstrating hands-on proficiency in cloud speech technologies.
+
+🧪 Hands-on Labs
+Lab	Description
+1. Speech-to-Text Basics	Learn how to use the Speech-to-Text API to convert recorded speech into text.
+2. Text-to-Speech API	Convert text input into spoken audio with natural-sounding voices.
+3. Translation + Speech Integration	Combine both APIs to build an app that listens to a user’s voice, translates it into another language, and speaks it back using Text-to-Speech.
+
+Each lab is performed inside Google Cloud Console → Cloud Shell environment, requiring no local setup.
+
+🧰 Technologies and Tools Used
+
+Google Cloud Platform (GCP)
+
+Cloud Speech-to-Text API
+
+Cloud Text-to-Speech API
+
+Cloud Translation API
+
+Google Cloud Console
+
+Cloud Shell / gcloud CLI
+
+Python or Node.js (for API requests and testing) 
